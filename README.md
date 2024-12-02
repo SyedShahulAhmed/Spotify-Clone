@@ -2,6 +2,8 @@
 
 A responsive **Spotify Clone** created using **React (Vite)** and **Tailwind CSS**. This project replicates the look and feel of Spotify's UI with essential features like a Home page and an Album page to display song collections.  
 
+🌐 **[Spotify Clone Demo](https://your-demo-link.vercel.app/)**  
+
 ---
 
 ## 🌟 Features  
@@ -61,7 +63,6 @@ A responsive **Spotify Clone** created using **React (Vite)** and **Tailwind CSS
 ### 💿 Album Page:  
 ![Album Page](./src/Preview/img2.png)  
 
----
 
 ## 🤝 Contributing  
 
