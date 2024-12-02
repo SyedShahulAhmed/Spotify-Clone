@@ -37,7 +37,7 @@ A responsive **Spotify Clone** created using **React (Vite)** and **Tailwind CSS
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/SyedShahulAhmed/React-Projects.git
+   git clone https://github.com/SyedShahulAhmed/Spotify-Clone.git
    cd SpotifyClone
    ```  
 
